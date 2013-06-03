@@ -1,9 +1,8 @@
 === Plugin Name ===
-Contributors: nuprn1
-Donate link: http://buddypress.org/community/groups/buddypress-restrict-email-domains/donate/
+Contributors: nuprn1,rolandinsh
 Tags: buddypress, restrict email, email, registration, banned email, email domains
-Requires at least: PHP 5.2, WordPress 3.0, BuddyPress 1.2.5.2
-Tested up to: PHP 5.2.x, WordPress 3.0.1, BuddyPress 1.2.6
+Requires at least: PHP 5.3, WordPress 3.3, BuddyPress 1.2.5.2
+Tested up to: PHP 5.2.x, WordPress 3.6, BuddyPress 1.7.2
 Stable tag: 0.1.0
 
 This plugin enables restriction of email domains during user registration for a single (non-multisite) WordPress installation of BuddyPress
@@ -22,8 +21,6 @@ This plugin will NOT work for a multisite/network WordPress install - intended f
 = Related Links: = 
 
 * <a href="http://blog.etiviti.com/2010/09/buddypress-restrict-email-domains-plugin/">Plugin About Page</a>
-* <a href="http://etivite.com" title="Plugin Demo Site">Author's BuddyPress Demo Site</a>
-
 
 == Installation ==
 
@@ -43,9 +40,7 @@ http://etivite.com/groups/buddypress/forum/topic/quick-tip-added-banned-email-do
 
 Please contact me on
 
-* <a href="http://blog.etiviti.com/2010/09/buddypress-restrict-email-domains-plugin/">Plugin About Page</a>
-* <a href="http://twitter.com/etiviti" title="Twitter">Twitter</a>
-
+* <a href="http://simplemediacode.com/">SimpleMediaCode.com</a>
 
 == Changelog ==
 
